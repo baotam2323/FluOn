@@ -1,0 +1,28 @@
+﻿@page "{id:int}"
+@model ERP3.Pages.Warehouse.DetailModel
+@{
+    ViewData["Title"] = "Chi tiết kho";
+    Layout = "_Layout";
+}
+
+<h2>Chi tiết Kho</h2>
+
+@if (Model.Warehouse != null)
+{
+    <div>
+        <p><strong>ID:</strong> @Model.Warehouse.Id</p>
+        <p><strong>Tên kho:</strong> @Model.Warehouse.Name</p>
+        <p><strong>Địa chỉ:</strong> @Model.Warehouse.Address</p>
+    </div>
+
+    <p>
+        <a asp-page="Edit" asp-route-id="@Model.Warehouse.Id">Sửa</a> |
+        <a asp-page="Delete" asp-route-id="@Model.Warehouse.Id">Xóa</a> |
+        <a asp-page="Index">Quay lại danh sách</a>
+    </p>
+}
+else
+{
+    <p>Kho không tồn tại.</p>
+    <p><a asp-page="Index">Quay lại danh sách</a></p>
+}

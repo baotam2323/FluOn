@@ -1,0 +1,35 @@
+﻿@page
+@model ERP3.Pages.Warehouse.IndexModel
+@{
+    ViewData["Title"] = "Quản lý Kho";
+}
+
+<h1>@ViewData["Title"]</h1>
+<a asp-page="Create" class="btn btn-success mb-3">Thêm kho</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên kho</th>
+            <th>Địa chỉ</th>
+            <th>Sức chứa</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var w in Model.Warehouses)
+        {
+            <tr>
+                <td>@w.Id</td>
+                <td>@w.Name</td>
+                <td>@w.Address</td>
+                <td>@w.Capacity</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@w.Id" class="btn btn-primary btn-sm">Sửa</a>
+                    <a asp-page="Delete" asp-route-id="@w.Id" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

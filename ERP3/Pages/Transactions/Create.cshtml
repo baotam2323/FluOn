@@ -1,0 +1,50 @@
+﻿@page
+@model ERP3.Pages.Transactions.CreateModel
+@{
+    ViewData["Title"] = "Thêm giao dịch mới";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post" class="row g-3">
+    <div class="col-md-4">
+        <label>Kho</label>
+        <select asp-for="Transaction.WarehouseId" class="form-control" asp-items="@(new SelectList(Model.Warehouses, "Id", "Name"))">
+            <option value="">--Chọn kho--</option>
+        </select>
+        <span asp-validation-for="Transaction.WarehouseId" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-4">
+        <label>Ngày giao dịch</label>
+        <input asp-for="Transaction.Date" class="form-control" type="date" />
+        <span asp-validation-for="Transaction.Date" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-4">
+        <label>Loại</label>
+        <select asp-for="Transaction.Type" class="form-control">
+            <option value="">--Chọn loại--</option>
+            <option value="Income">Thu</option>
+            <option value="Expense">Chi</option>
+        </select>
+        <span asp-validation-for="Transaction.Type" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label>Mô tả</label>
+        <input asp-for="Transaction.Description" class="form-control" />
+        <span asp-validation-for="Transaction.Description" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label>Số tiền</label>
+        <input asp-for="Transaction.Amount" class="form-control" />
+        <span asp-validation-for="Transaction.Amount" class="text-danger"></span>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-success">Lưu</button>
+        <a asp-page="Index" class="btn btn-secondary">Hủy</a>
+    </div>
+</form>

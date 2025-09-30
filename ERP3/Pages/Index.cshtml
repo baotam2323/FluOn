@@ -1,0 +1,54 @@
+﻿@page
+@model ERP3.Pages.IndexModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1 class="mb-4">@ViewData["Title"]</h1>
+
+<div class="row g-4">
+    <!-- Tổng kho -->
+    <div class="col-md-4">
+        <div class="card text-white bg-primary h-100">
+            <div class="card-body text-center">
+                <h5 class="card-title">Tổng kho</h5>
+                <h2 class="card-text">@Model.TotalWarehouses</h2>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tổng nhân viên -->
+    <div class="col-md-4">
+        <div class="card text-white bg-success h-100">
+            <div class="card-body text-center">
+                <h5 class="card-title">Tổng nhân viên</h5>
+                <h2 class="card-text">@Model.TotalEmployees</h2>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tổng giao dịch -->
+    <div class="col-md-4">
+        <div class="card text-white bg-warning h-100">
+            <div class="card-body text-center">
+                <h5 class="card-title">Tổng giao dịch</h5>
+                <h2 class="card-text">@Model.TotalTransactions</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr class="my-4">
+
+<h3>Báo cáo tổng quan</h3>
+<div class="row g-4">
+    <div class="col-md-6">
+        <a asp-page="/Reports/WarehouseReport" class="btn btn-outline-primary w-100 py-3">Xem báo cáo kho</a>
+    </div>
+    <div class="col-md-6">
+        <a asp-page="/Reports/FinanceReport" class="btn btn-outline-success w-100 py-3">Xem báo cáo tài chính</a>
+    </div>
+    <div class="col-md-6">
+        <a asp-page="/Reports/EmployeeReport" class="btn btn-outline-warning w-100 py-3">Xem báo cáo nhân viên</a>
+    </div>
+</div>

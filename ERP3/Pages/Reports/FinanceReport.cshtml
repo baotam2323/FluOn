@@ -1,0 +1,22 @@
+﻿@page
+@model ERP3.Pages.Reports.FinanceReportModel
+@{
+    ViewData["Title"] = "Báo cáo Tài chính";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-bordered w-50">
+    <tr>
+        <th>Tổng Thu</th>
+        <td>@Model.TotalIncome</td>
+    </tr>
+    <tr>
+        <th>Tổng Chi</th>
+        <td>@Model.TotalExpense</td>
+    </tr>
+    <tr>
+        <th>Số dư</th>
+        <td>@Model.Balance</td>
+    </tr>
+</table>

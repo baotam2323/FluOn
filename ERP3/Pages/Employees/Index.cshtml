@@ -1,0 +1,38 @@
+﻿@page
+@model ERP3.Pages.Employees.IndexModel
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h1>Danh sách nhân viên</h1>
+
+<p>
+    <a class="btn btn-primary" asp-page="Create">+ Thêm nhân viên</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên</th>
+            <th>Email</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model.Employees)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Email</td>
+                <td>
+                    <a class="btn btn-sm btn-info" asp-page="Edit" asp-route-id="@emp.Id">Sửa</a>
+                    <a class="btn btn-sm btn-danger" asp-page="Delete" asp-route-id="@emp.Id">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

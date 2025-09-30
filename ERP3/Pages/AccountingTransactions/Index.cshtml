@@ -1,0 +1,47 @@
+﻿@page
+@model ERP3.Pages.AccountingTransactions.IndexModel
+@{
+    ViewData["Title"] = "Danh sách giao dịch";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-page="Create" class="btn btn-success">Thêm giao dịch mới</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Mô tả</th>
+            <th>Số tiền</th>
+            <th>Ngày</th>
+            <th>Loại</th>
+            <th>Kho</th>
+            <th>Vị trí</th>
+            <th>Nhân viên</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model.Transactions)
+        {
+            <tr>
+                <td>@t.Id</td>
+                <td>@t.Description</td>
+                <td>@t.Amount.ToString("N0")</td>
+                <td>@t.Date.ToString("dd/MM/yyyy")</td>
+                <td>@t.Type</td>
+                <td>@t.Warehouse?.Name</td>
+                <td>@t.Location?.Name</td>
+                <td>@t.Employee?.Name</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@t.Id" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-page="Delete" asp-route-id="@t.Id" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

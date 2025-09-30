@@ -1,0 +1,42 @@
+﻿@page
+@model ERP3.Pages.Reports.EmployeeReportModel
+@{
+    ViewData["Title"] = "Báo cáo nhân viên";
+}
+
+<h2>Báo cáo nhân viên</h2>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Nhân viên</th>
+            <th>Tổng thu</th>
+            <th>Tổng chi</th>
+            <th>Số dư</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Reports != null && Model.Reports.Any())
+        {
+            int i = 1;
+            foreach (var item in Model.Reports)
+            {
+                <tr>
+                    <td>@i</td>
+                    <td>@item.EmployeeName</td>
+                    <td>@item.TotalIncome.ToString("N0")</td>
+                    <td>@item.TotalExpense.ToString("N0")</td>
+                    <td>@item.Balance.ToString("N0")</td>
+                </tr>
+                i++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">Chưa có dữ liệu.</td>
+            </tr>
+        }
+    </tbody>
+</table>

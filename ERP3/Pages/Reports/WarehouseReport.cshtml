@@ -1,0 +1,55 @@
+﻿@page
+@model ERP3.Pages.Reports.WarehouseReportModel
+@{
+    ViewData["Title"] = "Warehouse Report";
+}
+
+<h2>Báo cáo Kho</h2>
+
+<form method="get" class="row g-3 mb-4">
+    <div class="col-md-3">
+        <label for="WarehouseId" class="form-label">Chọn Kho</label>
+        <select asp-for="WarehouseId" asp-items="@(new SelectList(Model.Warehouses, "Id", "Name"))" class="form-select">
+            <option value="">-- Tất cả --</option>
+        </select>
+    </div>
+    <div class="col-md-3">
+        <label for="FromDate" class="form-label">Từ ngày</label>
+        <input asp-for="FromDate" type="date" class="form-control" />
+    </div>
+    <div class="col-md-3">
+        <label for="ToDate" class="form-label">Đến ngày</label>
+        <input asp-for="ToDate" type="date" class="form-control" />
+    </div>
+    <div class="col-md-3 d-flex align-items-end">
+        <button type="submit" class="btn btn-primary w-100">Lọc</button>
+    </div>
+</form>
+
+@if (Model.Reports.Any())
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Kho</th>
+                <th>Tổng số giao dịch</th>
+                <th>Tổng số tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var report in Model.Reports)
+            {
+                var warehouseName = Model.Warehouses.FirstOrDefault(w => w.Id == report.WarehouseId)?.Name ?? "N/A";
+                <tr>
+                    <td>@warehouseName</td>
+                    <td>@report.TotalTransactions</td>
+                    <td>@report.TotalAmount.ToString("N0")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="text-muted">Không có dữ liệu cho điều kiện lọc.</p>
+}

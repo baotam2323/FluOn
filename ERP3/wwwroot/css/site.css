@@ -1,0 +1,122 @@
+/* ===== BODY & WRAPPER ===== */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+    transition: all 0.3s ease;
+}
+
+/* ===== SIDEBAR ===== */
+#sidebar-wrapper {
+    min-width: 250px;
+    max-width: 250px;
+    transition: all 0.3s ease;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    margin-left: -250px;
+}
+
+.sidebar-heading {
+    font-size: 1.25rem;
+    letter-spacing: 1px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.list-group-item {
+    border: none;
+    transition: all 0.2s ease;
+    color: #495057;
+    font-weight: 500;
+}
+
+    .list-group-item:hover {
+        background-color: #0d6efd;
+        color: #ffffff;
+        font-weight: 600;
+    }
+
+/* ===== PAGE CONTENT ===== */
+#page-content-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===== NAVBAR ===== */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+    .navbar .btn {
+        font-weight: bold;
+    }
+
+/* ===== CONTAINER ===== */
+.container-fluid {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    background-color: #ffffff;
+    border-top: 1px solid #dee2e6;
+    color: #6c757d;
+}
+
+/* ===== TABLE ===== */
+.table {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+    .table thead {
+        background-color: #0d6efd;
+        color: #ffffff;
+    }
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(13, 110, 253, 0.05);
+}
+
+/* ===== BUTTONS ===== */
+.btn-primary {
+    background-color: #0d6efd;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #0b5ed7;
+    }
+
+.btn-success {
+    background-color: #198754;
+    border: none;
+}
+
+    .btn-success:hover {
+        background-color: #157347;
+    }
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+    #sidebar-wrapper {
+        margin-left: -250px;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        margin-left: 0;
+    }
+}

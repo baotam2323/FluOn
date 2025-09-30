@@ -1,0 +1,56 @@
+﻿@page
+@model ERP3.Pages.Transactions.EditModel
+@{
+    ViewData["Title"] = "Sửa giao dịch";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Transaction.Date" class="form-label"></label>
+        <input asp-for="Transaction.Date" class="form-control" type="date" />
+        <span asp-validation-for="Transaction.Date" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Transaction.Description" class="form-label"></label>
+        <input asp-for="Transaction.Description" class="form-control" />
+        <span asp-validation-for="Transaction.Description" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Transaction.Amount" class="form-label"></label>
+        <input asp-for="Transaction.Amount" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Transaction.Amount" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Transaction.Type" class="form-label"></label>
+        <select asp-for="Transaction.Type" class="form-select">
+            <option value="">-- Chọn loại giao dịch --</option>
+            <option value="Thu" selected="@Model.Transaction.Type == " Thu"">Thu</option>
+            <option value="Chi" selected="@Model.Transaction.Type == " Chi"">Chi</option>
+        </select>
+        <span asp-validation-for="Transaction.Type" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Transaction.WarehouseId" class="form-label"></label>
+        <select asp-for="Transaction.WarehouseId" class="form-select">
+            <option value="">-- Chọn kho --</option>
+            @foreach (var w in Model.Warehouses)
+            {
+                <option value="@w.Id" selected="@(w.Id == Model.Transaction.WarehouseId)">@w.Name</option>
+            }
+        </select>
+        <span asp-validation-for="Transaction.WarehouseId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-page="Index" class="btn btn-secondary">Hủy</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

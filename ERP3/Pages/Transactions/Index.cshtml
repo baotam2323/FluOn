@@ -1,0 +1,40 @@
+﻿@page
+@model ERP3.Pages.Transactions.IndexModel
+@{
+    ViewData["Title"] = "Danh sách giao dịch";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a asp-page="Create" class="btn btn-success mb-3">Thêm mới</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Ngày</th>
+            <th>Kho</th>
+            <th>Vị trí</th>
+            <th>Mô tả</th>
+            <th>Loại</th>
+            <th>Số tiền</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model.Transactions)
+        {
+            <tr>
+                <td>@t.Date.ToString("yyyy-MM-dd")</td>
+                <td>@t.Warehouse?.Name</td>
+                <td>@t.Location?.Name</td>
+                <td>@t.Description</td>
+                <td>@t.Type</td>
+                <td>@t.Amount.ToString("N2")</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@t.Id" class="btn btn-primary btn-sm">Sửa</a>
+                    <a asp-page="Delete" asp-route-id="@t.Id" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,13 @@
+﻿@page
+@model ERP3.Pages.Warehouse.DeleteModel
+@{
+    ViewData["Title"] = "Xóa Kho";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Bạn có chắc muốn xóa kho này không?</p>
+
+<form method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-page="Index" class="btn btn-secondary">Hủy</a>
+</form>

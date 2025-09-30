@@ -1,0 +1,22 @@
+﻿@page "{id:int}"
+@model ERP3.Pages.Employee.DetailModel
+@{
+    ViewData["Title"] = "Chi tiết nhân viên";
+}
+
+<h2>Chi tiết nhân viên</h2>
+
+<div class="card">
+    <div class="card-body">
+        <p><strong>Tên:</strong> @Model.Employee.Name</p>
+        
+        <p><strong>Email:</strong> @Model.Employee.Email</p>
+       
+    </div>
+</div>
+
+<p>
+    <a asp-page="Index" class="btn btn-secondary">⬅ Quay lại</a>
+    <a asp-page="Edit" asp-route-id="@Model.Employee.Id" class="btn btn-warning">✏ Sửa</a>
+    <a asp-page="Delete" asp-route-id="@Model.Employee.Id" class="btn btn-danger">🗑 Xóa</a>
+</p>

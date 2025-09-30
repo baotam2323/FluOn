@@ -1,0 +1,16 @@
+﻿@page
+@model ERP3.Pages.Transactions.DeleteModel
+@{
+    ViewData["Title"] = "Xóa giao dịch";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-warning">
+    Bạn có chắc chắn muốn xóa giao dịch: <strong>@Model.Transaction.Description</strong> không?
+</div>
+
+<form method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-page="Index" class="btn btn-secondary">Hủy</a>
+</form>

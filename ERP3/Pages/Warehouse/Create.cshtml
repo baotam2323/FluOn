@@ -1,0 +1,32 @@
+﻿@page
+@model ERP3.Pages.Warehouse.CreateModel
+@{
+    ViewData["Title"] = "Thêm Kho";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label class="form-label">Tên kho</label>
+        <input asp-for="Warehouse.Name" class="form-control" />
+        <span asp-validation-for="Warehouse.Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Địa chỉ</label>
+        <input asp-for="Warehouse.Address" class="form-control" />
+        <span asp-validation-for="Warehouse.Address" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Sức chứa</label>
+        <input asp-for="Warehouse.Capacity" class="form-control" type="number" />
+        <span asp-validation-for="Warehouse.Capacity" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Thêm mới</button>
+    <a asp-page="Index" class="btn btn-secondary">Hủy</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

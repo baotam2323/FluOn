@@ -1,0 +1,39 @@
+﻿@page "{id:int}"
+@model ERP3.Pages.Warehouse.EditModel
+@{
+    ViewData["Title"] = "Chỉnh sửa kho";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div class="mb-3">
+                <label asp-for="Warehouse.Name" class="form-label"></label>
+                <input asp-for="Warehouse.Name" class="form-control" />
+                <span asp-validation-for="Warehouse.Name" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Warehouse.Address" class="form-label"></label>
+                <input asp-for="Warehouse.Address" class="form-control" />
+                <span asp-validation-for="Warehouse.Address" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Warehouse.Capacity" class="form-label"></label>
+                <input asp-for="Warehouse.Capacity" class="form-control" type="number" min="1" />
+                <span asp-validation-for="Warehouse.Capacity" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+            <a asp-page="Index" class="btn btn-secondary ms-2">Hủy</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

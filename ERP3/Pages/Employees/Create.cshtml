@@ -1,0 +1,24 @@
+﻿@page
+@model ERP3.Pages.Employees.CreateModel
+@{
+    ViewData["Title"] = "Thêm nhân viên";
+}
+
+<h1>Thêm nhân viên</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Employee.Name" class="form-label"></label>
+        <input asp-for="Employee.Name" class="form-control" />
+        <span asp-validation-for="Employee.Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Email" class="form-label"></label>
+        <input asp-for="Employee.Email" class="form-control" />
+        <span asp-validation-for="Employee.Email" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-page="Index" class="btn btn-secondary">Hủy</a>
+</form>
