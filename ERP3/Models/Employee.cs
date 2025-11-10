@@ -17,5 +17,7 @@ namespace ERP3.Models
 
         // Navigation
         public ICollection<AccountingTransaction> AccountingTransactions { get; set; } = new List<AccountingTransaction>();
+        public string Position { get; internal set; }
+        public string Phone { get; internal set; }
     }
 }

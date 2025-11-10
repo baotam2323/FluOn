@@ -10,7 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
 // 1. Cấu hình DbContext
 // ==========================
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+           .EnableSensitiveDataLogging()  // Có thể bật để debug
+           .ConfigureWarnings(w => w.Ignore(Microsoft.EntityFrameworkCore.Diagnostics.RelationalEventId.AmbientTransactionWarning)) // Suppress warning nếu muốn
+);
 
 // ==========================
 // 2. Cấu hình Identity
@@ -74,9 +77,56 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.UseSession(); // ⚠ Session phải đặt sau UseRouting và trước MapRazorPages/MapControllers
+app.UseSession();
 
 app.MapRazorPages();
 app.MapControllers();
+
+// ==========================
+// 6. Tự động migrate & Seed Admin User/Role
+// ==========================
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    var context = services.GetRequiredService<AppDbContext>();
+    var userManager = services.GetRequiredService<UserManager<User>>();
+    var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
+
+    // Migrate database
+    context.Database.Migrate();
+
+    // Seed Role
+    var adminRole = "Admin";
+    if (!await roleManager.RoleExistsAsync(adminRole))
+    {
+        await roleManager.CreateAsync(new IdentityRole(adminRole));
+    }
+
+    // Seed Admin User
+    var adminUserName = "admin";
+    var adminEmail = "admin@example.com";
+    var adminPassword = "123456"; // theo policy password đã cấu hình
+    var adminUser = await userManager.FindByNameAsync(adminUserName);
+    if (adminUser == null)
+    {
+        adminUser = new User
+        {
+            UserName = adminUserName,
+            Email = adminEmail,
+            EmailConfirmed = true,
+            PhoneNumberConfirmed = true
+        };
+        var result = await userManager.CreateAsync(adminUser, adminPassword);
+        if (!result.Succeeded)
+            throw new Exception("Failed to create admin user: " + string.Join("; ", result.Errors.Select(e => e.Description)));
+    }
+
+    // Gán role Admin cho user
+    if (!await userManager.IsInRoleAsync(adminUser, adminRole))
+    {
+        await userManager.AddToRoleAsync(adminUser, adminRole);
+    }
+}
 
 app.Run();

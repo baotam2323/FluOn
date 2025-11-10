@@ -518,10 +518,10 @@ C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\staticwebassets\msbuild.b
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERP3.props
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERP3.props
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.csproj.Up2Date
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\refint\ERP3.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.pdb
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.genruntimeconfig.cache
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ref\ERP3.dll
+C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

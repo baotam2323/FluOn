@@ -30,13 +30,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    @{
-                        string displayName = string.Empty;
-                        if (SignInManager.IsSignedIn(User))
-                            displayName = Context.Session.GetString("DisplayName") ?? User.Identity?.Name ?? "";
-                    }
                     @if (SignInManager.IsSignedIn(User))
                     {
+                        var displayName = Context.Session.GetString("DisplayName") ?? User.Identity?.Name ?? "";
                         <li class="nav-item me-2">Xin chào, @displayName</li>
                         <li class="nav-item">
                             <form method="post" asp-page="/Account/Logout" class="d-inline">
@@ -65,9 +61,12 @@
                     <li class="nav-item">
                         <a asp-page="/Index" class="nav-link @(Context.Request.Path == "/" ? "active" : "")">Trang chủ</a>
                     </li>
+
                     @if (SignInManager.IsSignedIn(User))
                     {
-                        var userRole = UserManager.GetRolesAsync(await UserManager.GetUserAsync(User)).Result.FirstOrDefault() ?? "";
+                        var currentUser = await UserManager.GetUserAsync(User);
+                        var roles = await UserManager.GetRolesAsync(currentUser);
+                        var userRole = roles.FirstOrDefault() ?? "";
 
                         if (userRole == "Admin" || userRole == "Manager")
                         {
@@ -99,8 +98,9 @@
                     }
                 </ul>
             </aside>
+
             <main class="col-md-10">
-                @RenderBody()  <!-- ⚠ Đây là nơi form đăng ký sẽ hiển thị khi bạn vào /Account/Register -->
+                @RenderBody()
             </main>
         </div>
     </div>
@@ -113,4 +113,3 @@
     @RenderSection("Scripts", required: false)
 </body>
 </html>
-

@@ -1,8 +1,7 @@
-﻿using ERP3.Models;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
+using ERP3.Models;
 
 namespace ERP3.Pages.Account
 {
@@ -15,12 +14,16 @@ namespace ERP3.Pages.Account
             _signInManager = signInManager;
         }
 
+        // POST: /Account/Logout
         public async Task<IActionResult> OnPostAsync()
         {
-            await _signInManager.SignOutAsync();
-            HttpContext.Session.Clear();
-            return LocalRedirect("~/Account/Login");
+            if (User.Identity.IsAuthenticated)
+            {
+                await _signInManager.SignOutAsync();
+                HttpContext.Session.Clear(); // Xóa tất cả session để tránh lỗi hiển thị tên cũ
+            }
+
+            return RedirectToPage("/Index"); // Redirect về trang chủ sau khi logout
         }
     }
 }
-

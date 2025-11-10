@@ -36,5 +36,7 @@ namespace ERP3.Models
         public string WarehouseAddress => Warehouse?.Address ?? "N/A";
         public string LocationName => Location?.Name ?? "N/A";
         public string EmployeeName => Employee?.Name ?? "N/A"; // 🔹 tiện hiển thị
+
+        public DateTime TransactionDate { get; internal set; }
     }
 }

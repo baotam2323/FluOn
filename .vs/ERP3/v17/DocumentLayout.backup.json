@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\lengo\\source\\repos\\ERP3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -442,7 +442,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -454,59 +454,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\User.cs",
-              "RelativeToolTip": "ERP3\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:30:53.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Account\\Logout.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml.cs*",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Logout.cshtml.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T05:38:07.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:25:46.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T05:35:42.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Login.cshtml.cs",
@@ -514,12 +475,11 @@
               "RelativeToolTip": "ERP3\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:37:24.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T05:37:24.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Login.cshtml",
@@ -527,12 +487,75 @@
               "RelativeToolTip": "ERP3\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T05:37:18.145Z",
+              "WhenOpened": "2025-11-07T05:37:18.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
+              "RelativeDocumentMoniker": "ERP3\\Program.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
+              "RelativeToolTip": "ERP3\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:31:10.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml*",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Logout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T05:38:00.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:25:46.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T05:35:42.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\User.cs",
+              "RelativeToolTip": "ERP3\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:30:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Register.cshtml.cs",
@@ -540,25 +563,11 @@
               "RelativeToolTip": "ERP3\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:35:53.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T05:35:53.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T05:38:00.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AccessDenied.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\AccessDenied.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\AccessDenied.cshtml.cs",
@@ -566,12 +575,11 @@
               "RelativeToolTip": "ERP3\\Pages\\Account\\AccessDenied.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T06:37:16.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T06:37:16.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\AccessDenied.cshtml",
@@ -579,12 +587,11 @@
               "RelativeToolTip": "ERP3\\Pages\\Account\\AccessDenied.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T06:25:08.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T06:25:08.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\appsettings.json",
               "RelativeDocumentMoniker": "ERP3\\appsettings.json",
@@ -592,12 +599,11 @@
               "RelativeToolTip": "ERP3\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T15:29:11.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:29:11.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Dashboard.cshtml",
@@ -605,12 +611,11 @@
               "RelativeToolTip": "ERP3\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T08:32:28.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T08:32:28.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ERP3.csproj.Backup.tmp",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj.Backup.tmp",
               "RelativeDocumentMoniker": "ERP3\\ERP3.csproj.Backup.tmp",
@@ -618,12 +623,11 @@
               "RelativeToolTip": "ERP3\\ERP3.csproj.Backup.tmp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-15T15:37:05.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:37:05.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ERP3\\Data\\AppDbContext.cs",
@@ -631,12 +635,11 @@
               "RelativeToolTip": "ERP3\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAIA9wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:28:06.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:28:06.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ERP3\\Models\\LoginViewModel.cs",
@@ -644,21 +647,7 @@
               "RelativeToolTip": "ERP3\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T06:48:37.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
-              "RelativeDocumentMoniker": "ERP3\\Program.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
-              "RelativeToolTip": "ERP3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:31:10.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T06:48:37.112Z"
             },
             {
               "$type": "Document",
@@ -670,8 +659,7 @@
               "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIAwwA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:48:36.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T04:48:36.116Z"
             },
             {
               "$type": "Document",
@@ -683,8 +671,7 @@
               "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAtwBcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:42:45.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T04:42:45.442Z"
             },
             {
               "$type": "Document",
@@ -696,8 +683,7 @@
               "RelativeToolTip": "ERP3\\Pages\\Employees\\Index.cshtml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAIA/wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:35:26.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:35:26.489Z"
             },
             {
               "$type": "Document",
@@ -709,8 +695,7 @@
               "RelativeToolTip": "ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:35:32.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:35:32.038Z"
             },
             {
               "$type": "Document",
@@ -722,8 +707,7 @@
               "RelativeToolTip": "ERP3\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-07T06:38:08.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T06:38:08.909Z"
             },
             {
               "$type": "Document",
@@ -735,8 +719,7 @@
               "RelativeToolTip": "ERP3\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:35.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:36:35.459Z"
             },
             {
               "$type": "Document",
@@ -748,8 +731,7 @@
               "RelativeToolTip": "ERP3\\Pages\\Dashboard.cshtml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T07:54:47.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T07:54:47.236Z"
             },
             {
               "$type": "Document",
@@ -761,8 +743,7 @@
               "RelativeToolTip": "ERP3\\Pages\\Dashboard.cshtml",
               "ViewState": "AgIAAB0AAAAAAAAAAAAiwCkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T07:54:39.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T07:54:39.546Z"
             },
             {
               "$type": "Document",
@@ -774,8 +755,7 @@
               "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
               "ViewState": "AgIAACEAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:43:29.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T04:43:29.389Z"
             },
             {
               "$type": "Document",
@@ -787,8 +767,7 @@
               "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:48:29.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T04:48:29.645Z"
             },
             {
               "$type": "Document",
@@ -800,8 +779,7 @@
               "RelativeToolTip": "ERP3\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:32.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:36:32.982Z"
             },
             {
               "$type": "Document",
@@ -813,8 +791,7 @@
               "RelativeToolTip": "ERP3\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T07:15:17.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T07:15:17.986Z"
             },
             {
               "$type": "Document",
@@ -826,8 +803,7 @@
               "RelativeToolTip": "ERP3\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:29.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:36:29.586Z"
             },
             {
               "$type": "Document",
@@ -839,8 +815,7 @@
               "RelativeToolTip": "ERP3\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:27.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T15:36:27.573Z"
             },
             {
               "$type": "Document",
@@ -852,8 +827,7 @@
               "RelativeToolTip": "ERP3\\Data\\SqlClient.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAIAywA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:44:00.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T05:44:00.631Z"
             },
             {
               "$type": "Document",
@@ -865,8 +839,7 @@
               "RelativeToolTip": "ERP3\\Helpers\\SecurityHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:34:17.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T05:34:17.045Z"
             },
             {
               "$type": "Document",
@@ -890,8 +863,7 @@
               "RelativeToolTip": "ERP3\\Services\\IAccountingTransactionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:18:23.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T08:18:23.951Z"
             },
             {
               "$type": "Document",
@@ -903,8 +875,7 @@
               "RelativeToolTip": "ERP3\\ERP3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-15T16:21:40.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T16:21:40.723Z"
             },
             {
               "$type": "Document",
@@ -1180,7 +1151,8 @@
               "RelativeToolTip": "ERP3\\Models\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T10:53:10.161Z"
+              "WhenOpened": "2025-09-16T10:53:10.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1204,7 +1176,8 @@
               "RelativeToolTip": "ERP3\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:02:37.976Z"
+              "WhenOpened": "2025-09-15T16:02:37.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1216,7 +1189,8 @@
               "RelativeToolTip": "ERP3\\Models\\AccountingTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:33:27.851Z"
+              "WhenOpened": "2025-09-16T11:33:27.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
