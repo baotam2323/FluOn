@@ -1,6 +1,7 @@
 ﻿using ERP3.Services;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace ERP3.Pages
 {
@@ -9,7 +10,6 @@ namespace ERP3.Pages
         private readonly IWarehouseService _warehouseService;
         private readonly IEmployeeService _employeeService;
         private readonly IAccountingTransactionService _transactionService;
-        private int count;
 
         public int TotalWarehouses { get; set; }
         public int TotalEmployees { get; set; }
@@ -31,10 +31,9 @@ namespace ERP3.Pages
             var employees = await _employeeService.GetAllAsync();
             var transactions = await _transactionService.GetAllAsync();
 
-            TotalWarehouses = warehouses.Count;
-            TotalEmployees = employees.Count;
-            
-            TotalTransactions = count;
+            TotalWarehouses = warehouses?.Count ?? 0;
+            TotalEmployees = employees?.Count ?? 0;
+            TotalTransactions = transactions?.Count ?? 0;
         }
     }
 }

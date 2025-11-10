@@ -7,6 +7,7 @@ C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.MvcApplicationPartsA
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.RazorAssemblyInfo.cache
 C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.RazorAssemblyInfo.cs
+C:\Users\lengo\source\repos\ERP3\ERP3\obj\Debug\net8.0\ERP3.sourcelink.json
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\appsettings.json
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\ERP3.staticwebassets.runtime.json
@@ -386,6 +387,7 @@ C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Composition.Hostin
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Data.SqlClient.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\System.Formats.Asn1.dll
@@ -493,6 +495,11 @@ C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win-x86\native\l
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\lengo\source\repos\ERP3\ERP3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll

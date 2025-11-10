@@ -4,51 +4,62 @@
     ViewData["Title"] = "Dashboard";
 }
 
-<h1 class="mb-4">@ViewData["Title"]</h1>
+<h1 class="mb-4 text-primary fw-bold">
+    <i class="bi bi-speedometer2"></i> @ViewData["Title"]
+</h1>
 
 <div class="row g-4">
     <!-- Tổng kho -->
     <div class="col-md-4">
-        <div class="card text-white bg-primary h-100">
+        <div class="card text-white bg-primary shadow-sm h-100 rounded-3">
             <div class="card-body text-center">
                 <h5 class="card-title">Tổng kho</h5>
-                <h2 class="card-text">@Model.TotalWarehouses</h2>
+                <h2 class="card-text display-6">@Model.TotalWarehouses</h2>
             </div>
         </div>
     </div>
 
     <!-- Tổng nhân viên -->
     <div class="col-md-4">
-        <div class="card text-white bg-success h-100">
+        <div class="card text-white bg-success shadow-sm h-100 rounded-3">
             <div class="card-body text-center">
                 <h5 class="card-title">Tổng nhân viên</h5>
-                <h2 class="card-text">@Model.TotalEmployees</h2>
+                <h2 class="card-text display-6">@Model.TotalEmployees</h2>
             </div>
         </div>
     </div>
 
     <!-- Tổng giao dịch -->
     <div class="col-md-4">
-        <div class="card text-white bg-warning h-100">
+        <div class="card text-dark bg-warning shadow-sm h-100 rounded-3">
             <div class="card-body text-center">
                 <h5 class="card-title">Tổng giao dịch</h5>
-                <h2 class="card-text">@Model.TotalTransactions</h2>
+                <h2 class="card-text display-6">@Model.TotalTransactions</h2>
             </div>
         </div>
     </div>
 </div>
 
-<hr class="my-4">
+<hr class="my-5">
 
-<h3>Báo cáo tổng quan</h3>
-<div class="row g-4">
-    <div class="col-md-6">
-        <a asp-page="/Reports/WarehouseReport" class="btn btn-outline-primary w-100 py-3">Xem báo cáo kho</a>
+<h3 class="fw-semibold text-secondary mb-4">
+    <i class="bi bi-graph-up"></i> Báo cáo tổng quan
+</h3>
+
+<div class="row g-3">
+    <div class="col-md-4">
+        <a asp-page="/Reports/WarehouseReport" class="btn btn-outline-primary w-100 py-3 fw-semibold shadow-sm">
+            <i class="bi bi-box-seam"></i> Báo cáo Kho
+        </a>
     </div>
-    <div class="col-md-6">
-        <a asp-page="/Reports/FinanceReport" class="btn btn-outline-success w-100 py-3">Xem báo cáo tài chính</a>
+    <div class="col-md-4">
+        <a asp-page="/Reports/FinanceReport" class="btn btn-outline-success w-100 py-3 fw-semibold shadow-sm">
+            <i class="bi bi-cash-stack"></i> Báo cáo Tài chính
+        </a>
     </div>
-    <div class="col-md-6">
-        <a asp-page="/Reports/EmployeeReport" class="btn btn-outline-warning w-100 py-3">Xem báo cáo nhân viên</a>
+    <div class="col-md-4">
+        <a asp-page="/Reports/EmployeeReport" class="btn btn-outline-warning w-100 py-3 fw-semibold shadow-sm">
+            <i class="bi bi-people"></i> Báo cáo Nhân viên
+        </a>
     </div>
 </div>

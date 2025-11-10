@@ -94,6 +94,10 @@
             "QuestPDF": {
               "target": "Package",
               "version": "[2025.7.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
             }
           },
           "imports": [

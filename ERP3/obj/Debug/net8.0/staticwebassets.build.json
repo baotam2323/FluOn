@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2loJ4rGQ3P5TVBaiq8V9y1C9Gc5vFETODTjhwW+QMPE=",
+  "Hash": "j4I2osGNznsr5M4klzc92A/s69txmo3y41S2r5JNw2Y=",
   "Source": "ERP3",
   "BasePath": "_content/ERP3",
   "Mode": "Default",
@@ -2685,7 +2685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 19 Sep 2025 06:26:53 GMT"
+          "Value": "Fri, 07 Nov 2025 06:09:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2730,7 +2730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 19 Sep 2025 06:26:53 GMT"
+          "Value": "Fri, 07 Nov 2025 06:09:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2775,7 +2775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 19 Sep 2025 06:26:53 GMT"
+          "Value": "Fri, 07 Nov 2025 06:09:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2812,7 +2812,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 19 Sep 2025 06:26:53 GMT"
+          "Value": "Fri, 07 Nov 2025 06:09:33 GMT"
         },
         {
           "Name": "Cache-Control",

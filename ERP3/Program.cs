@@ -3,7 +3,6 @@ using ERP3.Models;
 using ERP3.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,7 +15,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // ==========================
 // 2. Cấu hình Identity
 // ==========================
-builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+builder.Services.AddIdentity<User, IdentityRole>(options =>
 {
     options.Password.RequireDigit = false;
     options.Password.RequiredLength = 6;
@@ -24,19 +23,26 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
     options.Password.RequireUppercase = false;
     options.Password.RequireLowercase = false;
 })
-    .AddEntityFrameworkStores<AppDbContext>()
-    .AddDefaultTokenProviders();
+.AddEntityFrameworkStores<AppDbContext>()
+.AddDefaultTokenProviders();
 
 // ==========================
-// 3. Cấu hình Razor Pages + Runtime Compilation
+// 3. Razor Pages + Runtime Compilation
 // ==========================
-builder.Services.AddControllersWithViews()
-       .AddRazorRuntimeCompilation(); // cần gói Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
-
-builder.Services.AddRazorPages();
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 // ==========================
-// 4. Đăng ký Services
+// 4. Session & Cookie
+// ==========================
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+// ==========================
+// 5. Đăng ký các Services
 // ==========================
 builder.Services.AddScoped<ITransactionService, TransactionService>();
 builder.Services.AddScoped<IAccountingService, AccountingService>();
@@ -45,12 +51,11 @@ builder.Services.AddScoped<IWarehouseService, WarehouseService>();
 builder.Services.AddScoped<ILocationService, LocationService>();
 builder.Services.AddScoped<IAccountingTransactionService, AccountingTransactionService>();
 
-// ==========================
-// 5. Cấu hình app
-// ==========================
 var app = builder.Build();
 
+// ==========================
 // Middleware
+// ==========================
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
@@ -69,8 +74,9 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseSession(); // ⚠ Session phải đặt sau UseRouting và trước MapRazorPages/MapControllers
+
 app.MapRazorPages();
 app.MapControllers();
 
-// Run app
 app.Run();

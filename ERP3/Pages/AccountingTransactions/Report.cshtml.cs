@@ -1,11 +1,13 @@
 ﻿using ERP3.Models;
 using ERP3.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace ERP3.Pages.AccountingTransactions
 {
+    // 🔒 Chỉ người có vai trò Admin hoặc Accountant mới được xem báo cáo
+    [Authorize(Roles = "Admin,Accountant")]
     public class ReportModel : PageModel
     {
         private readonly IAccountingTransactionService _transactionService;
@@ -33,37 +35,37 @@ namespace ERP3.Pages.AccountingTransactions
 
         public async Task OnGetAsync()
         {
-            // lấy danh sách kho để đổ dropdown
+            // 1️⃣ Lấy danh sách kho cho dropdown
             Warehouses = await _warehouseService.GetAllAsync();
 
-            // lấy tất cả giao dịch
-            var transactions = await _transactionService.GetAllAsync();
+            // 2️⃣ Lấy danh sách tất cả giao dịch
+            var allTransactions = await _transactionService.GetAllAsync();
 
-            // lọc theo kho
+            // 3️⃣ Lọc dữ liệu theo kho
             if (WarehouseId.HasValue)
             {
-                transactions = transactions
+                allTransactions = allTransactions
                     .Where(t => t.WarehouseId == WarehouseId.Value)
                     .ToList();
             }
 
-            // lọc theo khoảng ngày
+            // 4️⃣ Lọc theo khoảng thời gian
             if (FromDate.HasValue)
             {
-                transactions = transactions
+                allTransactions = allTransactions
                     .Where(t => t.Date >= FromDate.Value)
                     .ToList();
             }
 
             if (ToDate.HasValue)
             {
-                transactions = transactions
+                allTransactions = allTransactions
                     .Where(t => t.Date <= ToDate.Value)
                     .ToList();
             }
 
-            Transactions = (List<AccountingTransaction>)transactions;
+            // 5️⃣ Gán dữ liệu kết quả
+            Transactions = allTransactions.OrderByDescending(t => t.Date).ToList();
         }
     }
 }
-

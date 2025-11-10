@@ -3,28 +3,148 @@
   "WorkspaceRootPath": "C:\\Users\\lengo\\source\\repos\\ERP3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\erp3.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\erp3.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\taxreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\taxreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\data\\sqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\data\\sqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\erp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\erp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\iaccountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\iaccountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\iaccountingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\iaccountingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\accountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\accountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\accountingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,44 +155,104 @@
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\warehousereport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\warehousereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\warehousereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\financereport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\financereport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\financereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\financereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\employeereport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\employeereport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\accountingtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\accountingtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\taxreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\taxreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\warehousereportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\warehousereportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\warehousereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\warehousereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\accountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\accountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\taxreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\taxreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\iaccountingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\iaccountingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\employeereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\employeereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\accountingtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\accountingtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\data\\accountingtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\data\\accountingtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\employees\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\employees\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,14 +283,6 @@
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -119,68 +291,8 @@
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\iaccountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\iaccountingtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\erp3.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\erp3.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\employeereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\employeereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\employeereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\warehousereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\warehousereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\services\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\employeereportfiltermodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -193,26 +305,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\transactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\transactions\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\warehousereportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\warehousereportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\warehousereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\warehousereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\taxreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\taxreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -243,14 +335,6 @@
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\taxreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\taxreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\accountingtransactions\\taxreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\accountingtransactions\\taxreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\warehouse\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\warehouse\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -261,10 +345,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\supplychainapp\\pages\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\supplychainapp\\pages\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\warehousereportfilter.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -285,14 +365,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\employeereportfiltermodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\employeereportfiltermodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\financereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\financereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\reports\\financereport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\reports\\financereport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\warehouse\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -319,10 +391,6 @@
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\warehouse\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -337,10 +405,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\transactions\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -363,24 +427,12 @@
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\employees\\detail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\erp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\erp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\obj\\Debug\\net8.0\\ERP3.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP3\\obj\\Debug\\net8.0\\ERP3.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|c:\\users\\lengo\\source\\repos\\erp3\\erp3\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C4888E6-9A16-4114-8206-0F42BE53F491}|ERP3\\ERP3.csproj|solutionrelative:erp3\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -390,7 +442,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -402,188 +454,423 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\User.cs",
+              "RelativeToolTip": "ERP3\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:44:35.106Z"
+              "WhenOpened": "2025-09-15T15:30:53.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:38:07.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:44:28.657Z",
+              "WhenOpened": "2025-09-15T15:25:46.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:49:18.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:49:15.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:48:36.116Z"
+              "WhenOpened": "2025-11-07T05:35:42.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:37:24.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:48:29.645Z"
+              "WhenOpened": "2025-11-07T05:37:18.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AccountingService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\AccountingService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingService.cs",
-              "RelativeToolTip": "ERP3\\Services\\AccountingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:23:36.071Z"
+              "WhenOpened": "2025-11-07T05:35:53.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "WarehouseReport.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:09:41.956Z"
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T05:38:00.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EmployeeReport.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAhwBwAAAAiAAAAAAAAAA==",
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:01:28.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Report.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAhwDIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:42:39.36Z"
+              "WhenOpened": "2025-11-07T06:37:16.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AccountingTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\AccountingTransaction.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\AccountingTransaction.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\AccountingTransaction.cs",
-              "RelativeToolTip": "ERP3\\Models\\AccountingTransaction.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:33:27.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Transaction.cs",
-              "RelativeToolTip": "ERP3\\Models\\Transaction.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:55:14.683Z"
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T06:25:08.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\appsettings.json",
+              "RelativeDocumentMoniker": "ERP3\\appsettings.json",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\appsettings.json",
+              "RelativeToolTip": "ERP3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T15:29:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Dashboard.cshtml",
+              "RelativeToolTip": "ERP3\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:45:14.325Z"
+              "WhenOpened": "2025-09-19T08:32:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ERP3.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "ERP3\\ERP3.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj.Backup.tmp",
+              "RelativeToolTip": "ERP3\\ERP3.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T15:37:05.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AccountingTransactionService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingTransactionService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\AccountingTransactionService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingTransactionService.cs",
-              "RelativeToolTip": "ERP3\\Services\\AccountingTransactionService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAawBIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:17:47.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ERP3\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ERP3\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA9wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:28:06.725Z"
+              "WhenOpened": "2025-09-15T15:28:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ERP3\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:48:37.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
+              "RelativeDocumentMoniker": "ERP3\\Program.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
+              "RelativeToolTip": "ERP3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:31:10.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:48:36.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Report.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwBcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:42:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA/wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:35:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:35:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\README.md",
+              "RelativeDocumentMoniker": "ERP3\\README.md",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\README.md",
+              "RelativeToolTip": "ERP3\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-07T06:38:08.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:36:35.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:54:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Dashboard.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T07:54:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaxReport.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:43:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:48:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:36:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:15:17.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:36:29.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:36:27.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SqlClient.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Data\\SqlClient.cs",
+              "RelativeDocumentMoniker": "ERP3\\Data\\SqlClient.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Data\\SqlClient.cs",
+              "RelativeToolTip": "ERP3\\Data\\SqlClient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAywA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:44:00.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Helpers\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "ERP3\\Helpers\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Helpers\\SecurityHelper.cs",
+              "RelativeToolTip": "ERP3\\Helpers\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:34:17.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "IAccountingService.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IAccountingService.cs",
               "RelativeDocumentMoniker": "ERP3\\Services\\IAccountingService.cs",
@@ -595,679 +882,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:45:19.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Detail.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Detail.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Detail.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:25:32.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Create.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIA1wBEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:35:14.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Delete.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:25:20.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Index.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:35:26.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:35:18.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:35:24.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:24:36.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Edit.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:25:03.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Employees\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:24:50.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Employee.cs",
-              "RelativeToolTip": "ERP3\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:02:37.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TransactionService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\TransactionService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\TransactionService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\TransactionService.cs",
-              "RelativeToolTip": "ERP3\\Services\\TransactionService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAawBwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:23:22.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\AppUser.cs",
-              "RelativeToolTip": "ERP3\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:30:53.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Warehouse.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Warehouse.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\Warehouse.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Warehouse.cs",
-              "RelativeToolTip": "ERP3\\Models\\Warehouse.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:27:26.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "LocationService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\LocationService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\LocationService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\LocationService.cs",
-              "RelativeToolTip": "ERP3\\Services\\LocationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:34:27.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IAccountingTransactionService.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IAccountingTransactionService.cs",
               "RelativeDocumentMoniker": "ERP3\\Services\\IAccountingTransactionService.cs",
               "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IAccountingTransactionService.cs",
               "RelativeToolTip": "ERP3\\Services\\IAccountingTransactionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:18:23.951Z"
+              "WhenOpened": "2025-09-19T08:18:23.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
-              "RelativeDocumentMoniker": "ERP3\\Program.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Program.cs",
-              "RelativeToolTip": "ERP3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:31:10.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\appsettings.json",
-              "RelativeDocumentMoniker": "ERP3\\appsettings.json",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\appsettings.json",
-              "RelativeToolTip": "ERP3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T15:29:11.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Dashboard.cshtml",
-              "RelativeToolTip": "ERP3\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T08:32:28.32Z"
+              "Title": "ERP3.csproj",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj",
+              "RelativeDocumentMoniker": "ERP3\\ERP3.csproj",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj",
+              "RelativeToolTip": "ERP3\\ERP3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T16:21:40.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "ERP3.csproj.Backup.tmp",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj.Backup.tmp",
-              "RelativeDocumentMoniker": "ERP3\\ERP3.csproj.Backup.tmp",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj.Backup.tmp",
-              "RelativeToolTip": "ERP3\\ERP3.csproj.Backup.tmp",
+              "Title": "AccountingTransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingTransactionService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\AccountingTransactionService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingTransactionService.cs",
+              "RelativeToolTip": "ERP3\\Services\\AccountingTransactionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-15T15:37:05.277Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:17:47.095Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "Report.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAhwCwAAAArAAAAAAAAAA==",
+              "Title": "AccountingService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\AccountingService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\AccountingService.cs",
+              "RelativeToolTip": "ERP3\\Services\\AccountingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:42:45.442Z"
+              "WhenOpened": "2025-09-19T08:23:36.071Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "EmployeeReport.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T05:01:22.761Z"
+              "Title": "WarehouseReport.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\WarehouseReport.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:09:41.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "EmployeeReportDto.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\EmployeeReportDto.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\EmployeeReportDto.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\EmployeeReportDto.cs",
-              "RelativeToolTip": "ERP3\\Models\\EmployeeReportDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:02:10.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "WarehouseReportDto.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportDto.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\WarehouseReportDto.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportDto.cs",
-              "RelativeToolTip": "ERP3\\Models\\WarehouseReportDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:16:07.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ILocationService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ILocationService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\ILocationService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ILocationService.cs",
-              "RelativeToolTip": "ERP3\\Services\\ILocationService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:34:05.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T07:15:17.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Dashboard.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Dashboard.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Dashboard.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T07:54:47.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Index.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAC8AAABwxE7sxM4awDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:32.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:35.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "EmployeeReportFilterModel.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T05:27:07.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:55:26.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Create.cshtml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAASwBcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:55:32.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "WarehouseReportItem.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportItem.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\WarehouseReportItem.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportItem.cs",
-              "RelativeToolTip": "ERP3\\Models\\WarehouseReportItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T06:46:08.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
               "Title": "WarehouseReport.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReport.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\WarehouseReport.cshtml",
               "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReport.cshtml",
               "RelativeToolTip": "ERP3\\Pages\\Reports\\WarehouseReport.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-16T11:09:28.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "TaxReportDto.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\TaxReportDto.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\TaxReportDto.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\TaxReportDto.cs",
-              "RelativeToolTip": "ERP3\\Models\\TaxReportDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:29:40.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ReportDto.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\ReportDto.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\ReportDto.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\ReportDto.cs",
-              "RelativeToolTip": "ERP3\\Models\\ReportDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:36:02.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Location.cs",
-              "RelativeDocumentMoniker": "ERP3\\Models\\Location.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Location.cs",
-              "RelativeToolTip": "ERP3\\Models\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T10:53:10.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Delete.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:56:02.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:56:08.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "ERP3\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:06:54.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "WarehouseService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\WarehouseService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\WarehouseService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\WarehouseService.cs",
-              "RelativeToolTip": "ERP3\\Services\\WarehouseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:24:10.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "IWarehouseService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IWarehouseService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\IWarehouseService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IWarehouseService.cs",
-              "RelativeToolTip": "ERP3\\Services\\IWarehouseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:27:39.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "ITransactionService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ITransactionService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\ITransactionService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ITransactionService.cs",
-              "RelativeToolTip": "ERP3\\Services\\ITransactionService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:23:02.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "ERP3\\Services\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IEmployeeService.cs",
-              "RelativeToolTip": "ERP3\\Services\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:06:31.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "TaxReport.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:43:29.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "TaxReport.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T04:43:21.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Warehouse\\Edit.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:22:06.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:36:11.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\SupplyChainApp\\Pages\\Employee.cs",
-              "RelativeDocumentMoniker": "ERP3\\SupplyChainApp\\Pages\\Employee.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\SupplyChainApp\\Pages\\Employee.cs",
-              "RelativeToolTip": "ERP3\\SupplyChainApp\\Pages\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:36:42.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Dashboard.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Dashboard.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwCkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T07:54:39.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "WarehouseReportFilter.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:04:22.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "WarehouseReportFilter.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T05:04:16.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "EmployeeReportFilter.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T05:05:19.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "EmployeeReportFilter.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:05:25.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "EmployeeReportFilterModel.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:27:09.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "FinanceReport.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\FinanceReport.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\FinanceReport.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\FinanceReport.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Reports\\FinanceReport.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T07:42:26.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 39,
               "Title": "FinanceReport.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\FinanceReport.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\FinanceReport.cshtml.cs",
@@ -1279,7 +968,619 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FinanceReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\FinanceReport.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\FinanceReport.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\FinanceReport.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\FinanceReport.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T07:42:26.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeeReport.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:01:28.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmployeeReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T05:01:22.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TaxReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\TaxReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:43:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Report.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:42:39.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:49:15.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:49:18.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:45:19.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:45:14.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:44:28.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\AccountingTransactions\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:44:35.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WarehouseReportItem.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportItem.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\WarehouseReportItem.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportItem.cs",
+              "RelativeToolTip": "ERP3\\Models\\WarehouseReportItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:46:08.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WarehouseReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportDto.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\WarehouseReportDto.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\WarehouseReportDto.cs",
+              "RelativeToolTip": "ERP3\\Models\\WarehouseReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:16:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Warehouse.cs",
+              "RelativeToolTip": "ERP3\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:27:26.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Transaction.cs",
+              "RelativeToolTip": "ERP3\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:55:14.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TaxReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\TaxReportDto.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\TaxReportDto.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\TaxReportDto.cs",
+              "RelativeToolTip": "ERP3\\Models\\TaxReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:29:40.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\ReportDto.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\ReportDto.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\ReportDto.cs",
+              "RelativeToolTip": "ERP3\\Models\\ReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:36:02.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Location.cs",
+              "RelativeToolTip": "ERP3\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:53:10.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EmployeeReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\EmployeeReportDto.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\EmployeeReportDto.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\EmployeeReportDto.cs",
+              "RelativeToolTip": "ERP3\\Models\\EmployeeReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:02:10.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\Employee.cs",
+              "RelativeToolTip": "ERP3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:02:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AccountingTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\AccountingTransaction.cs",
+              "RelativeDocumentMoniker": "ERP3\\Models\\AccountingTransaction.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Models\\AccountingTransaction.cs",
+              "RelativeToolTip": "ERP3\\Models\\AccountingTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:33:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AccountingTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Data\\AccountingTransaction.cs",
+              "RelativeDocumentMoniker": "ERP3\\Data\\AccountingTransaction.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Data\\AccountingTransaction.cs",
+              "RelativeToolTip": "ERP3\\Data\\AccountingTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:34:14.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Detail.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Detail.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:25:32.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA1wBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:35:14.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:25:20.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:35:18.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:35:24.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:24:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:25:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:24:50.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\TransactionService.cs",
+              "RelativeToolTip": "ERP3\\Services\\TransactionService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:23:22.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\LocationService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\LocationService.cs",
+              "RelativeToolTip": "ERP3\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:34:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ILocationService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ILocationService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\ILocationService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ILocationService.cs",
+              "RelativeToolTip": "ERP3\\Services\\ILocationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:34:05.524Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 73,
+              "Title": "EmployeeReportFilterModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T05:27:07.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:55:26.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Create.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Create.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:55:32.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T04:56:02.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Transactions\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:56:08.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ERP3\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:06:54.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\WarehouseService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\WarehouseService.cs",
+              "RelativeToolTip": "ERP3\\Services\\WarehouseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:24:10.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IWarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IWarehouseService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\IWarehouseService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IWarehouseService.cs",
+              "RelativeToolTip": "ERP3\\Services\\IWarehouseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:27:39.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "ERP3\\Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:23:02.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ERP3\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "ERP3\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:06:31.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Warehouse\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:22:06.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Warehouse\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:36:11.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\SupplyChainApp\\Pages\\Employee.cs",
+              "RelativeDocumentMoniker": "ERP3\\SupplyChainApp\\Pages\\Employee.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\SupplyChainApp\\Pages\\Employee.cs",
+              "RelativeToolTip": "ERP3\\SupplyChainApp\\Pages\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:36:42.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "WarehouseReportFilter.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:04:22.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "WarehouseReportFilter.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\WarehouseReportFilter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T05:04:16.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EmployeeReportFilter.cshtml",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T05:05:19.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "EmployeeReportFilter.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilter.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:05:25.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "EmployeeReportFilterModel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
+              "RelativeDocumentMoniker": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
+              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
+              "RelativeToolTip": "ERP3\\Pages\\Reports\\EmployeeReportFilterModel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:27:09.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Delete.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Delete.cshtml",
@@ -1291,7 +1592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 92,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Delete.cshtml.cs",
@@ -1303,7 +1604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 93,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Create.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Create.cshtml",
@@ -1315,7 +1616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 94,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Create.cshtml.cs",
@@ -1327,7 +1628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 95,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Index.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Index.cshtml",
@@ -1339,7 +1640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 96,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Index.cshtml.cs",
@@ -1351,19 +1652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:25:46.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 97,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ERP3\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -1375,7 +1664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 98,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Index.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Index.cshtml",
@@ -1387,7 +1676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 99,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Index.cshtml.cs",
@@ -1399,7 +1688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 100,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ERP3\\wwwroot\\css\\site.css",
@@ -1411,19 +1700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:29.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 101,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Edit.cshtml.cs",
@@ -1435,7 +1712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 102,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Transactions\\Edit.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Transactions\\Edit.cshtml",
@@ -1447,7 +1724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 103,
               "Title": "Detail.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Detail.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Detail.cshtml.cs",
@@ -1459,7 +1736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 104,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Warehouse\\Detail.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Warehouse\\Detail.cshtml",
@@ -1471,7 +1748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 105,
               "Title": "Detail.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Employees\\Detail.cshtml.cs",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Employees\\Detail.cshtml.cs",
@@ -1483,19 +1760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "ERP3.csproj",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj",
-              "RelativeDocumentMoniker": "ERP3\\ERP3.csproj",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\ERP3.csproj",
-              "RelativeToolTip": "ERP3\\ERP3.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-15T16:21:40.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 106,
               "Title": "ERP3.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\obj\\Debug\\net8.0\\ERP3.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ERP3\\obj\\Debug\\net8.0\\ERP3.AssemblyInfo.cs",
@@ -1507,7 +1772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 107,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "ERP3\\Pages\\Error.cshtml",
@@ -1516,30 +1781,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T15:36:31.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 93,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:36:27.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 94,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\lengo\\source\\repos\\ERP3\\ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ERP3\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T15:35:32.038Z"
             }
           ]
         }

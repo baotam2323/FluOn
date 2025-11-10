@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ERP3.9trbx9frap.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9trbx9frap"},{"Name":"integrity","Value":"sha256-jZZ2OdYBrrNthJXYXkjIX9CsavSOmoXwVfBE5Gi/6ds="},{"Name":"label","Value":"_content/ERP3/ERP3.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1122"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jZZ2OdYBrrNthJXYXkjIX9CsavSOmoXwVfBE5Gi/6ds=\u0022"},{"Name":"Last-Modified","Value":"Fri, 19 Sep 2025 06:26:53 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1122"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jZZ2OdYBrrNthJXYXkjIX9CsavSOmoXwVfBE5Gi/6ds=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Nov 2025 06:09:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ERP3/ERP3.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ERP3.9trbx9frap.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jZZ2OdYBrrNthJXYXkjIX9CsavSOmoXwVfBE5Gi/6ds="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1122"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jZZ2OdYBrrNthJXYXkjIX9CsavSOmoXwVfBE5Gi/6ds=\u0022"},{"Name":"Last-Modified","Value":"Fri, 19 Sep 2025 06:26:53 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1122"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jZZ2OdYBrrNthJXYXkjIX9CsavSOmoXwVfBE5Gi/6ds=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Nov 2025 06:09:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ERP3/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
