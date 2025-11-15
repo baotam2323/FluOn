@@ -1,0 +1,24 @@
+﻿using ERP5.Models;
+using ERP5.Services.Interfaces;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+public class IndexModel : PageModel
+{
+    private readonly IShipmentService _shipmentService;
+
+    public IndexModel(IShipmentService shipmentService)
+    {
+        _shipmentService = shipmentService;
+    }
+
+    public List<Shipment>
+    Shipments { get; set; } = new List<Shipment>
+        ();
+
+        public async Task OnGetAsync()
+        {
+        Shipments = await _shipmentService.GetAllShipmentsAsync();
+        }
+        }

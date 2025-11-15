@@ -1,0 +1,27 @@
+﻿@page
+@model ERP5.Pages.InventoryItems.DeleteModel
+@{
+    ViewData["Title"] = "Delete Inventory Item";
+}
+
+<h2>Delete Item</h2>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete this item?
+</div>
+
+<div class="mb-3">
+    <strong>Name:</strong> @Model.InventoryItem.Name
+</div>
+<div class="mb-3">
+    <strong>Unit Price:</strong> @Model.InventoryItem.UnitPrice
+</div>
+<div class="mb-3">
+    <strong>Quantity:</strong> @Model.InventoryItem.Quantity
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="InventoryItem.Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

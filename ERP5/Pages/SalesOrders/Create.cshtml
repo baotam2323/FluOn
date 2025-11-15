@@ -1,0 +1,34 @@
+﻿@page
+@model ERP5.Pages.Admin.SalesOrders.CreateModel
+@{
+    ViewData["Title"] = "Create Sales Order";
+}
+
+<h2>Create Sales Order</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="SalesOrder.OrderNumber" class="form-label"></label>
+        <input asp-for="SalesOrder.OrderNumber" class="form-control" />
+        <span asp-validation-for="SalesOrder.OrderNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SalesOrder.OrderDate" class="form-label"></label>
+        <input asp-for="SalesOrder.OrderDate" type="date" class="form-control" />
+        <span asp-validation-for="SalesOrder.OrderDate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SalesOrder.CustomerId" class="form-label"></label>
+        <select asp-for="SalesOrder.CustomerId" class="form-select" asp-items="Model.Customers"></select>
+        <span asp-validation-for="SalesOrder.CustomerId" class="text-danger"></span>
+    </div>
+
+    <button class="btn btn-success" type="submit">Save</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

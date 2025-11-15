@@ -1,0 +1,17 @@
+﻿@page
+@model ERP5.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center mt-5">
+    <h1>Welcome to ERP5</h1>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <p>Hello, @User.Identity.Name! Go to <a asp-page="/Admin/Index">Dashboard</a></p>
+    }
+    else
+    {
+        <p>Please <a asp-page="/Account/Login">Login</a> to access the system.</p>
+    }
+</div>

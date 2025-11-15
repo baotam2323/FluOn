@@ -1,0 +1,17 @@
+﻿@page "{id:int}"
+@model ERP5.Pages.Admin.SalesOrders.DeleteModel
+@{
+    ViewData["Title"] = "Delete Sales Order";
+}
+
+<h2>Delete Sales Order</h2>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete this order: <strong>@Model.SalesOrder.OrderNumber</strong>?
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="SalesOrder.Id" />
+    <button class="btn btn-danger" type="submit">Delete</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

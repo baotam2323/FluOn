@@ -1,0 +1,24 @@
+﻿@page
+@model ERP5.Pages.Admin.ResetInvalidPasswordsModel
+@{
+    ViewData["Title"] = "Reset Invalid Passwords";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label>UserId</label>
+        <input asp-for="UserId" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>New Password</label>
+        <input asp-for="NewPassword" class="form-control" type="password" />
+    </div>
+    <button type="submit" class="btn btn-success">Reset Password</button>
+</form>
+
+@if (Model.Message != null)
+{
+    <div class="alert alert-info mt-3">@Model.Message</div>
+}

@@ -1,0 +1,20 @@
+﻿@page
+@model ERP5.Pages.Tokens.BuyModel
+@{
+    ViewData["Title"] = "Buy Tokens";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Amount" class="form-label">Amount to Buy</label>
+        <input asp-for="Amount" class="form-control" type="number" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buy</button>
+</form>
+
+@if (Model.Message != null)
+{
+    <div class="alert alert-success mt-3">@Model.Message</div>
+}

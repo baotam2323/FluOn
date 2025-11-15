@@ -1,0 +1,29 @@
+﻿@page
+@model ERP5.Pages.Admin.TokenLogsModel
+@{
+    ViewData["Title"] = "Token Logs";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Amount</th>
+            <th>Type</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model.Logs)
+        {
+            <tr>
+                <td>@log.UserName</td>
+                <td>@log.Amount</td>
+                <td>@log.Type</td>
+                <td>@log.Date.ToString("g")</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,29 @@
+﻿@page
+@model CreateModel
+@{
+    ViewData["Title"] = "Create Shipment";
+}
+
+<h2>Create Shipment</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Shipment.OrderNumber" class="form-label"></label>
+        <input asp-for="Shipment.OrderNumber" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Shipment.Type" class="form-label"></label>
+        <select asp-for="Shipment.Type" class="form-select">
+            <option>Import</option>
+            <option>Export</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Shipment.Status" class="form-label"></label>
+        <select asp-for="Shipment.Status" class="form-select">
+            <option>Pending</option>
+            <option>Completed</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

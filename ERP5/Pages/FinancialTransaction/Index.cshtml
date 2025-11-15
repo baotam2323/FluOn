@@ -1,0 +1,37 @@
+﻿@page
+@model ERP5.Pages.Admin.FinancialTransactions.IndexModel
+@{
+    ViewData["Title"] = "Financial Transactions";
+}
+
+<h2>Financial Transactions</h2>
+
+<a asp-page="Create" class="btn btn-primary mb-2">Create New Transaction</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Amount</th>
+            <th>Created At</th>
+            <th>User</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ft in Model.Transactions)
+        {
+            <tr>
+                <td>@ft.Description</td>
+                <td>@ft.Amount.ToString("C")</td>
+                <td>@ft.CreatedAt.ToString("dd/MM/yyyy")</td>
+                <td>@ft.User?.UserName</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@ft.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-page="Delete" asp-route-id="@ft.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

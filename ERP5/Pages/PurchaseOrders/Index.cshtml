@@ -1,0 +1,30 @@
+﻿@page
+@model ERP5.Pages.PurchaseOrders.IndexModel
+@{
+    ViewData["Title"] = "Purchase Orders";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>PO Number</th>
+            <th>Supplier</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var po in Model.Orders)
+        {
+            <tr>
+                <td>@po.OrderNumber</td>
+                <td>@po.OrderDate.ToShortDateString()</td>
+                <td>@po.Status</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

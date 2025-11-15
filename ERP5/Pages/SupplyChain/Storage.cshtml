@@ -1,0 +1,29 @@
+﻿@page
+@model ERP5.Pages.SupplyChain.StorageModel
+@{
+    ViewData["Title"] = "Warehouse Storage";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Item Name</th>
+            <th>Quantity</th>
+            <th>Unit</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.StorageItems)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Unit</td>
+                <td>@item.Location</td>
+            </tr>
+        }
+    </tbody>
+</table>

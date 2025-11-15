@@ -1,0 +1,35 @@
+﻿@page
+@model ERP5.Pages.InventoryItems.CreateModel
+@{
+    ViewData["Title"] = "Create Inventory Item";
+}
+
+<h2>Create New Item</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="InventoryItem.Name" class="form-label"></label>
+        <input asp-for="InventoryItem.Name" class="form-control" />
+        <span asp-validation-for="InventoryItem.Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="InventoryItem.UnitPrice" class="form-label"></label>
+        <input asp-for="InventoryItem.UnitPrice" class="form-control" />
+        <span asp-validation-for="InventoryItem.UnitPrice" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="InventoryItem.Quantity" class="form-label"></label>
+        <input asp-for="InventoryItem.Quantity" class="form-control" />
+        <span asp-validation-for="InventoryItem.Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="InventoryItem.Description" class="form-label"></label>
+        <textarea asp-for="InventoryItem.Description" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

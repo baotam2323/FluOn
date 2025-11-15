@@ -1,0 +1,21 @@
+﻿@page
+@model ERP5.Pages.Admin.ChangeRoleModel
+@{
+    ViewData["Title"] = "Change User Role";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label>User</label>
+        <select asp-for="SelectedUserId" class="form-select" asp-items="@(new SelectList(Model.Users, "Id", "FullName"))"></select>
+    </div>
+
+    <div class="mb-3">
+        <label>Role</label>
+        <select asp-for="SelectedRole" class="form-select" asp-items="@(new SelectList(Model.Roles, "Name", "Name"))"></select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update Role</button>
+</form>

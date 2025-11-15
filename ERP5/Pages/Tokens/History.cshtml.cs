@@ -1,0 +1,39 @@
+using ERP5.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Security.Claims;
+
+namespace ERP5.Pages.Tokens
+{
+    [Authorize]
+    public class HistoryModel : PageModel
+    {
+        private readonly IUserTokenService _tokenService;
+
+        public HistoryModel(IUserTokenService tokenService)
+        {
+            _tokenService = tokenService;
+        }
+
+        public List<TokenLogViewModel> Logs { get; set; }
+
+        public async Task OnGetAsync()
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var logs = await _tokenService.GetUserLogsAsync(userId);
+            Logs = logs.Select(l => new TokenLogViewModel
+            {
+                Date = l.Date,
+                Amount = l.Amount,
+                Type = l.Type
+            }).ToList();
+        }
+
+        public class TokenLogViewModel
+        {
+            public DateTime Date { get; set; }
+            public decimal Amount { get; set; }
+            public string Type { get; set; }
+        }
+    }
+}

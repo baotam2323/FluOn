@@ -1,0 +1,59 @@
+﻿@page
+@model ERP5.Pages.Admin.PurchaseOrders.CreateModel
+@{
+    ViewData["Title"] = "Create Purchase Order";
+}
+
+<h2>Create Purchase Order</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="PurchaseOrder.OrderNumber" class="form-label"></label>
+        <input asp-for="PurchaseOrder.OrderNumber" class="form-control" />
+        <span asp-validation-for="PurchaseOrder.OrderNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="PurchaseOrder.OrderDate" class="form-label"></label>
+        <input asp-for="PurchaseOrder.OrderDate" type="date" class="form-control" />
+        <span asp-validation-for="PurchaseOrder.OrderDate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="PurchaseOrder.SupplierName" class="form-label"></label>
+        <input asp-for="PurchaseOrder.SupplierName" class="form-control" />
+        <span asp-validation-for="PurchaseOrder.SupplierName" class="text-danger"></span>
+    </div>
+
+    <h4>Items</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Inventory Item</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.PurchaseOrder.Items.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <select asp-for="PurchaseOrder.Items[@i].InventoryItemId" class="form-select" asp-items="Model.InventoryItems">
+                        </select>
+                    </td>
+                    <td><input asp-for="PurchaseOrder.Items[@i].Quantity" class="form-control" /></td>
+                    <td><input asp-for="PurchaseOrder.Items[@i].UnitPrice" class="form-control" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

@@ -1,0 +1,21 @@
+﻿@page
+@model ERP5.Pages.UserTokens.CreateModel
+@{
+    ViewData["Title"] = "Add User Token";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="UserToken.UserId" class="form-label"></label>
+        <select asp-for="UserToken.UserId" class="form-select" asp-items="Model.UserList"></select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="UserToken.Amount" class="form-label"></label>
+        <input asp-for="UserToken.Amount" class="form-control" />
+        <span asp-validation-for="UserToken.Amount" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Add Token</button>
+    <a asp-page="Index" class="btn btn-secondary">Back</a>
+</form>

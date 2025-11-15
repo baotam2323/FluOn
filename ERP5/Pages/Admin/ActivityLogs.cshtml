@@ -1,0 +1,29 @@
+﻿@page
+@model ERP5.Pages.Admin.ActivityLogsModel
+@{
+    ViewData["Title"] = "Activity Logs";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Action</th>
+            <th>Page</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model.Logs)
+        {
+            <tr>
+                <td>@log.UserName</td>
+                <td>@log.Action</td>
+                <td>@log.Page</td>
+                <td>@log.Date.ToString("g")</td>
+            </tr>
+        }
+    </tbody>
+</table>

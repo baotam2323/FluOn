@@ -1,0 +1,57 @@
+﻿@page "{id:int}"
+@model ERP5.Pages.Admin.SalesOrders.EditModel
+@{
+    ViewData["Title"] = "Edit Sales Order";
+}
+
+<h2>Edit Sales Order</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="SalesOrder.Id" />
+
+    <div class="mb-3">
+        <label asp-for="SalesOrder.OrderNumber" class="form-label"></label>
+        <input asp-for="SalesOrder.OrderNumber" class="form-control" />
+        <span asp-validation-for="SalesOrder.OrderNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SalesOrder.OrderDate" class="form-label"></label>
+        <input asp-for="SalesOrder.OrderDate" type="date" class="form-control" />
+        <span asp-validation-for="SalesOrder.OrderDate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SalesOrder.CustomerId" class="form-label"></label>
+        <select asp-for="SalesOrder.CustomerId" class="form-select" asp-items="Model.Customers"></select>
+        <span asp-validation-for="SalesOrder.CustomerId" class="text-danger"></span>
+    </div>
+
+    <h4>Items</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Inventory Item</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.SalesOrder.Items.Count; i++)
+            {
+                <tr>
+                    <td>@Model.SalesOrder.Items[i].InventoryItem?.Name</td>
+                    <td><input asp-for="SalesOrder.Items[@i].Quantity" class="form-control" /></td>
+                    <td><input asp-for="SalesOrder.Items[@i].UnitPrice" class="form-control" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button class="btn btn-success" type="submit">Save</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

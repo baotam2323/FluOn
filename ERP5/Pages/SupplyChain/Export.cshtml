@@ -1,0 +1,19 @@
+﻿@page
+@model ERP5.Pages.SupplyChain.ExportModel
+@{
+    ViewData["Title"] = "Export Goods";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="ExportItem.Name" class="form-label">Item Name</label>
+        <input asp-for="ExportItem.Name" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="ExportItem.Quantity" class="form-label">Quantity</label>
+        <input asp-for="ExportItem.Quantity" class="form-control" type="number" />
+    </div>
+    <button type="submit" class="btn btn-primary">Export</button>
+</form>
